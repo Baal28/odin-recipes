@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+
+
+ul li{
+    margin: 0 0 15px -35px;
+    list-style-type: none;
+    display: list-item;
+}
+
+a{
+    text-decoration: none;
+    padding: 2px;
+    color: aliceblue;
+    background-color: rgb(3, 1, 1);
+    border: 5px solid rgb(214, 196, 34);
+    border-radius: 18px;
+    
+}
